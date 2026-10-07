@@ -1,6 +1,6 @@
 # parvaanahluwalia.github.io
 
-Engineering portfolio of **Parvaan Singh Ahluwalia**, live at https://parvaanahluwalia.github.io
+Engineering portfolio of **Parvaan Singh Ahluwalia**, live at https://parvaanahluwalia.com
 
 The blueprint design (grid paper, dimension callouts, orange accent, horizontal project rail) comes from Parvaan's original concept.
 
